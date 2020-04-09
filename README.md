@@ -5,4 +5,5 @@ As Ongs podem se cadastrar e disponibilizar os casos para que os usuários acess
 Foram utilizadas as tecnologogias Node.js para o backend, react para o front e react native para a aplicação mobile.
 
 
-![BeTheHero](https://github.com/JoseJuniorr/Be-The-Hero/blob/master/BeTheHeroGif.gif)
+![BeTheHeroWeb](https://github.com/JoseJuniorr/Be-The-Hero/blob/master/BeTheHeroGif.gif)
+![BeTheHeroMobile](https://github.com/JoseJuniorr/Be-The-Hero/blob/master/mobilegif.gif)
